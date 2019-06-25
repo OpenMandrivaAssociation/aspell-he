@@ -10,7 +10,7 @@
 
 Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
-Version:	1.0.0
+Version:	1.1.0
 Release:	22
 Group:		System/Internationalization
 License:	GPLv2
